@@ -1,10 +1,10 @@
 <resources>
     <string name="some_error_occurred">Some error occurred</string>
     <string name="app_name">AdmManager</string>
-    <string name="start">start</string>
-    <string name="completed">completed</string>
-    <string name="pause">pause</string>
-    <string name="cancel">cancel</string>
-    <string name="resume">resume</string>
-    <string name="restart">restart</string>
+    <string name="start">دانلود</string>
+    <string name="completed">تمام شد</string>
+    <string name="pause">متوقف</string>
+    <string name="cancel">لغو</string>
+    <string name="resume">دامه</string>
+    <string name="restart">شروع مجدد</string>
 </resources>
